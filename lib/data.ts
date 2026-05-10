@@ -77,7 +77,7 @@ export const PRODUCTS: Product[] = [
     price: 2000,
     stock: 60,
     unit: 'bunch',
-    image: 'https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?auto=format&fit=crop&w=800&q=80',
+    image: '/unripe-plantain.png',
   },
   {
     id: '8',
@@ -86,7 +86,7 @@ export const PRODUCTS: Product[] = [
     price: 8500,
     stock: 15,
     unit: 'bottle',
-    image: 'https://images.unsplash.com/photo-1541944743827-e04bb645f946?auto=format&fit=crop&w=800&q=80',
+    image: '/palm-oil.png',
   },
   {
     id: '9',
